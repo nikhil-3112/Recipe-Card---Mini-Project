@@ -11,13 +11,10 @@ img {
     height: 10rem;
 }
 
-h1 .title {
-}
 h1,h2 {
     color: rgb(227, 103, 20);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     display: block;
-    align: center;
 }
 
 P {
