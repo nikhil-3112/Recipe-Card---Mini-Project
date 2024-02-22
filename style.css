@@ -1,0 +1,28 @@
+body {
+    background-color: bisque;
+    max-width: 500px;
+    margin: auto;
+    border-width: 3rem;
+    line-height: 1.5rem;
+}
+
+img {
+    width: 20rem;
+    height: 10rem;
+}
+
+h1 .title {
+}
+h1,h2 {
+    color: rgb(227, 103, 20);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: block;
+    align: center;
+}
+
+P {
+    color: black;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: block;
+    align-items: center;
+}
